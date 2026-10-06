@@ -8,7 +8,7 @@ def home():
     app.logger.info("Homepage endpoint invoked")
 
     return jsonify(
-        message="Welcome to Cloud With VarJosh",
+        message="Welcome to Cloud With Tajamul",
         platform="GitHub Actions",
         runtime="Docker + Flask"
     )
